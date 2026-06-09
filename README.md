@@ -35,8 +35,6 @@ A self-directed data analysis project examining creator growth velocity, audienc
 1. Clone this repo or open `youtube_creator_analysis.ipynb` directly in [Google Colab](https://colab.research.google.com)
 2. Get a free YouTube Data API v3 key: `console.cloud.google.com` → Enable YouTube Data API v3 → Create credentials → API Key
 3. Paste your key into the `API_KEY` field in the config cell
-4. Run all cells — takes approximately 10 minutes
-5. Outputs: `youtube_creator_analysis.png` (4-panel chart) and `youtube_creator_data.csv` (541 rows, ready for Looker Studio)
 
 ## Outputs
 
